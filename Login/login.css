@@ -224,7 +224,7 @@ a{
 
 .container.register-mode .right-panel .image,
 .container.register-mode .right-panel .content {
-    transform: translateX(200%);
+    transform: translateX(250%);
 }
 .container.register-mode .left-panel .image,
 .container.register-mode .left-panel .content {
